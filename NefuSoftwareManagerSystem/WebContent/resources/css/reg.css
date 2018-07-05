@@ -1,0 +1,31 @@
+
+        body {
+            padding-top: 50px;
+        }
+
+        h1 {
+            color: #fff;
+        }
+
+        #content {
+            width: 100%;
+            min-height: 600px;
+            background: #337ab7 ;
+            padding-top: 20px;
+            color: #FFF;
+        }
+
+        .register {
+            padding: 20px;
+            font-weight: 700;
+            border: #FFF solid 1px;
+            -moz-border-radius: 10px;
+            /* Gecko browsers */
+            -webkit-border-radius: 10px;
+            /* Webkit browsers */
+            border-radius: 10px;
+            /* W3C syntax */
+        }
+        .jumbotron{
+           
+          }
